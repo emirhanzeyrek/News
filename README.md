@@ -1,4 +1,4 @@
-# News with API
+# News
 The news app displays data from the API on the app's interface.
 
 ## Technologies
